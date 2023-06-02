@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "pouczyć się JSa"
+    },
+    {
+      "id": 2,
+      "title": "pouczyć się CSSa"
+    }
+  ]
+}
